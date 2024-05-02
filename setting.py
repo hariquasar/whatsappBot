@@ -1,0 +1,5 @@
+token = "testing"
+
+whatsapp_token = 'EAAGn4w19GW0BO4AOFXUvYtCZAoBLeMeZCoOA42RSIgycx9cDnYY9RG1pzoYFthIlqFobnicn1gjFyTZClP5NMmAXvIZANwKfQ1M86POltaw6QKn8R3iKqJyzC2tv2JZBdn5QYQK6OBZAhhRjUg0NZAMCzBwCzCwWC5ek3vJ2qnc1JMpq1OXCRs2BEJ96VqMRgasm9nVdjRFoAL90Cb4brgZD'
+
+whatsapp_url = 'https://graph.facebook.com/v18.0/275290672339555/messages'
